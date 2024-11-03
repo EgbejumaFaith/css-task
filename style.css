@@ -1,0 +1,64 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 960px;
+  border: 2px solid black;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.wrapper-1 button {
+  background-color: purple;
+  color: white;
+  font-size: 25px;
+  border: 2px solid purple;
+  border-radius: 25px;
+  padding: 10px 5px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.container h1 {
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 3px;
+}
+
+.img-container {
+  width: 200px;
+  height: 200px;
+}
+
+.img-container img {
+  width: 100%;
+}
+
+.wrapper-2 {
+  margin: 5px auto;
+}
+
+.wrapper-2 button {
+  background-color: green;
+  color: white;
+  font-size: 25px;
+  border: 2px solid green;
+  border-radius: 25px;
+  padding: 10px 5px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.wrapper-3 button {
+  background-color: blue;
+  color: white;
+  font-size: 25px;
+  border: 2px solid blue;
+  border-radius: 25px;
+  padding: 10px 5px;
+  width: 400px;
+  cursor: pointer;
+}
